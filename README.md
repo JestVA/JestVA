@@ -20,5 +20,5 @@ The act of coding is very similar to cooking.
 
 ### Would you like to see the menu?
 
-✅ &nbsp; [Generative Art on Instagram 📸](https://www.instagram.com/devfrend/)
+✅ &nbsp; [Generative Art on Instagram](https://www.instagram.com/devfrend/)
 ✅ &nbsp; [Witty tweets (sometimes) ⾫](https://twitter.com/COERCITON)
