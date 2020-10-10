@@ -1,16 +1,24 @@
-### Hi there 👋
+# Eat responsibly
 
-<!--
-**JestVA/JestVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The act of coding is very similar to cooking. 
 
-Here are some ideas to get you started:
+1️⃣ "cook" (code) it, 
+2️⃣ "taste" (debug) it, 
+3️⃣ "flavour" (refactor) it
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My ingredients
+
+🥒 half oz front end
+🍑 half oz back end
+🍉 quarter pounder full stack
+
+## Special sauces
+
+🥢 spicy Js
+🥜 buffalo Ts
+🍭 rummy Python
+
+### Would you like to see the menu?
+
+✅ [Generative Art on Instagram 📸](https://www.instagram.com/devfrend/)
+✅ [Witty tweets (sometimes) ⾫](https://twitter.com/COERCITON)
