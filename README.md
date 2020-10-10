@@ -2,9 +2,9 @@
 
 The act of coding is very similar to cooking. 
 
-1️⃣ &nbsp; "cook" (code) it,<br /> 
-2️⃣ &nbsp; "taste" (debug) it,<br /> 
-3️⃣ &nbsp; "flavour" (refactor) it<br />
+1️⃣ &nbsp; "cook" (code)<br /> 
+2️⃣ &nbsp; "taste" (debug)<br /> 
+3️⃣ &nbsp; "flavour" (refactor)<br />
 
 ## My ingredients
 
