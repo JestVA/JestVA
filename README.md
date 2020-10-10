@@ -2,21 +2,21 @@
 
 The act of coding is very similar to cooking. 
 
-1️⃣ "cook" (code) it, 
-2️⃣ "taste" (debug) it, 
-3️⃣ "flavour" (refactor) it
+1️⃣ "cook" (code) it,<br /> 
+2️⃣ "taste" (debug) it,<br /> 
+3️⃣ "flavour" (refactor) it<br />
 
 ## My ingredients
 
-🥒 half oz front end
-🍑 half oz back end
-🍉 quarter pounder full stack
+🥒 half oz front end<br />
+🍑 half oz back end<br />
+🍉 quarter pounder full stack<br />
 
 ## Special sauces
 
-🥢 spicy Js
-🥜 buffalo Ts
-🍭 rummy Python
+🥢 spicy Js<br />
+🥜 buffalo Ts<br />
+🍭 rummy Python<br />
 
 ### Would you like to see the menu?
 
