@@ -1,4 +1,4 @@
-# Eat responsibly
+# Eat responsibly, code diligently
 
 The act of coding is very similar to cooking. 
 
