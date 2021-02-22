@@ -1,21 +1,34 @@
-# Eat responsibly, code diligently
+# I edited Wikipedia, once..
 
-The act of coding is very similar to cooking. 
+"Why is `v7` the only point not included in an area `e`?" I asked in the [London Algorithms](https://www.meetup.com/London-Algorithms-Meetup/) Slack channel.
 
-1️⃣ &nbsp; "cook" (code)<br /> 
-2️⃣ &nbsp; "taste" (debug)<br /> 
-3️⃣ &nbsp; "flavour" (refactor)<br />
+"Well that's a good question. An additional one would be why the incidence PAOH below shows v7 in an edge but the diagram doesn't. One of them is wrong!"
 
-## My ingredients
+"Anyone can edit Wikipedia :wink:"
 
-🥒 &nbsp; half oz front end<br />
-🍑 &nbsp; half oz back end<br />
-🍉 &nbsp; quarter pounder full stack<br />
+And off I went. A couple hours later I had edited the [Hypergraph theory page on Wikipedia](https://en.m.wikipedia.org/wiki/Hypergraph).
 
-## Special sauces
+Was I a graphing algorithm expert? Far from it... 
 
-🥢 &nbsp; spicy Js<br />
-🥜 &nbsp; buffalo Ts<br />
-🍭 &nbsp; rummy Python<br />
+But I'm an expert in intellectual curiosity. I find it the root of progress. 
 
-### Menu below 👇
+Knowledge for the sake of understanding, for the love of knowledge. Simply put, `Philo sofia`.
+
+## Dear reader: 
+
+🔰 If you are a developer, see if any of my [talks](https://github.com/JestVA/talks) can help you even a tiny bit
+
+🔰 If you feel too burdened or affraid of getting burnt out, see if you can find the support and reconciliation that you need in my [Developer Happiness support chatroom](https://gitter.im/DevUnwind/community)
+
+🔰 If you want to collaborate in OSS projects with me, [raise an issue here](https://github.com/JestVA/DevUnwind) and I will make sure to read it. It also gets posted via a webhook on the [Gitter](https://gitter.im/DevUnwind/community) group
+
+🔰 If you want to hang out and chat more technical bits, please join my [Discord](https://discord.gg/yXEK9udCSz). This link is just for you and will never expire
+
+Sometimes I might live code or stream electronic music on [Twitch](https://www.twitch.tv/devfrend)
+
+Oftentimes I post fun memes on [Twitter](https://twitter.com/memedvlpr).
+
+I work from a container in East London. Some of the stuff I create is posted on the [Galois.ai Instagram](https://www.instagram.com/galois.ai/) (Wolfram Automatas and State Machines)
+
+Hacky Hacky yours,
+Dorin
