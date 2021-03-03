@@ -24,7 +24,7 @@ Knowledge for the sake of understanding, for the love of knowledge. Simply put, 
 
 🔰 If you want to hang out and chat more technical bits, please join my [Discord](https://discord.gg/yXEK9udCSz). This link is just for you and will never expire
 
-Sometimes I might live code, stream electronic music or even write literature like this piece on [Materialisation, olives and philosophere](https://vocal.media/humans/witchfully-yours), *live* on my [Twitch stream](https://www.twitch.tv/devfrend). 
+Sometimes I might live code, stream electronic music or even write literature like this piece on [Materialisation, olives and philosophers](https://vocal.media/humans/witchfully-yours), *live* on my [Twitch stream](https://www.twitch.tv/devfrend). 
 
 Oftentimes I post fun memes on [Twitter](https://twitter.com/memedvlpr).
 
