@@ -16,9 +16,9 @@ Knowledge for the sake of understanding, for the love of knowledge. Simply put, 
 
 ## Dear reader: 
 
-🔰 If you are a developer, see if any of my [talks](https://github.com/JestVA/talks) can help you even a tiny bit
+🔰 If you are a developer, join one of my [meetup series in London](https://www.meetup.com/London-Algorithms-Meetup/events/hwnsfsyccfbqb/) (currently remote). Besides the [curriculum](https://github.com/JestVA/DevUnwind) in the DevUnwind repo, I also have some [talks (e.g. Dealing with Time in Javascript)](https://github.com/JestVA/talks).
 
-🔰 If you feel too burdened or affraid of getting burnt out, see if you can find the support and reconciliation that you need in my [Developer Happiness support chatroom](https://gitter.im/DevUnwind/community)
+🔰 If you feel too burdened or affraid of getting burnt out, see if you can find the support and reconciliation that you need in my [Developer Happiness support chatroom](https://gitter.im/DevUnwind/community).
 
 🔰 If you want to collaborate in OSS projects with me, [raise an issue here](https://github.com/JestVA/DevUnwind) and I will make sure to read it. It also gets posted via a webhook on the [Gitter](https://gitter.im/DevUnwind/community) group
 
