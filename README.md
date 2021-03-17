@@ -28,7 +28,7 @@ Sometimes I might live code, stream electronic music or even write literature li
 
 Oftentimes I post fun memes on [Twitter](https://twitter.com/memedvlpr).
 
-I work from a container in East London. Some of the stuff I create is posted on the [Galois.ai Instagram](https://www.instagram.com/galois.ai/) (Wolfram Automatas and State Machines)
+I work remotely and sometimes from a container in East London which acts as a bucket for digital art of sorts. Some of the stuff that I create is posted on the [Galois.ai Instagram](https://www.instagram.com/galois.ai/) (Wolfram Automatas and State Machines)
 
-Hackney Wicky yours,
+hacky hacky yours,
 Dorin
