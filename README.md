@@ -1,4 +1,4 @@
-# I edited Wikipedia, once..
+# The story of how I, once, edited Wikipedia
 
 I asked in the [London Algorithms](https://www.meetup.com/London-Algorithms-Meetup/) Slack channel why `v7` is the only point not included in area `e`. 
 
