@@ -6,9 +6,7 @@ Hello there! I'm Dorin, a driven frontend engineer with a deep passion for creat
 
 ### What I Do
 
-- **Next.js Migration:** Spearheaded the migration of an entire frontend stack to Next.js, enhancing global state management and user experience for a multi-step progression flow.
-- **Automated Conveyancing Quote System:** Developed an MVP that automates the conveyancing quote process, significantly boosting efficiency and opening new revenue streams.
-- **Data-Driven Insights:** Created a data dashboard to track the impact of COVID-19 on the UK housing market, featured in over 50 major publications.
+I specialize in crafting visually stunning interfaces and complex frontend architectures using modern technologies like React.js, TypeScript, and Next.js. I thrive on turning complex data into compelling visual stories that drive user engagement and decision-making.
 
 ### Projects and Contributions
 
