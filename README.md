@@ -1,6 +1,6 @@
 # Dorin Dumitrascuta
 
-## Lead Frontend Engineer | Data Visualization Enthusiast | AI and Algorithm Innovator
+## Lead Senior Frontend Engineer | Data Visualization Enthusiast | AI and Algorithm Innovator
 
 Hello there! I'm Dorin, a driven frontend engineer with a deep passion for creating engaging, data-driven user experiences. My journey in tech has spanned various roles, from engineering to digital project management, always with a focus on pushing the envelope in frontend development and data visualization.
 
