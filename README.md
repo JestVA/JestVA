@@ -1,13 +1,26 @@
-# The story of how I, once, edited Wikipedia
+# Dorin Dumitrascuta
 
-I asked in the [London Algorithms](https://www.meetup.com/London-Algorithms-Meetup/) Slack channel why `v7` is the only point not included in area `e`. 
+## Lead Frontend Engineer | Data Visualization Enthusiast | AI and Algorithm Innovator
 
-The response was that it's a good question and that there is another question to consider, which is why the incidence `PAOH` shows `v7` in an edge but the diagram doesn't.
+Hello there! I'm Dorin, a driven frontend engineer with a deep passion for creating engaging, data-driven user experiences. My journey in tech has spanned various roles, from engineering to digital project management, always with a focus on pushing the envelope in frontend development and data visualization.
 
-One of them is incorrect. 
+### What I Do
 
-Someone mentioned that anyone can edit Wikipedia and I decided to edit the [Hypergraph theory page on Wikipedia](https://en.m.wikipedia.org/wiki/Hypergraph). 
+- **Next.js Migration:** Spearheaded the migration of an entire frontend stack to Next.js, enhancing global state management and user experience for a multi-step progression flow.
+- **Automated Conveyancing Quote System:** Developed an MVP that automates the conveyancing quote process, significantly boosting efficiency and opening new revenue streams.
+- **Data-Driven Insights:** Created a data dashboard to track the impact of COVID-19 on the UK housing market, featured in over 50 major publications.
 
-Although I am not an expert in graphing algorithms, I still wanted to contribute.
+### Projects and Contributions
 
-I find intellectual curiosity the root of progress. And this is how I keep sharp!
+- **Next.js Migration:** Spearheaded the migration of an entire frontend stack to Next.js, enhancing global state management and user experience for a multi-step progression flow.
+- **Automated Conveyancing Quote System:** Developed an MVP that automates the conveyancing quote process, significantly boosting efficiency and opening new revenue streams.
+- **Data-Driven Insights:** Created a data dashboard to track the impact of COVID-19 on the UK housing market, featured in over 50 major publications.
+
+### Open Source Contributions
+
+- **Hypergraph Theory on Wikipedia:** Contributed to enhancing the Hypergraph Theory page on Wikipedia, driven by my curiosity and commitment to knowledge sharing in the tech community.
+
+### Get in Touch
+
+Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/ddumitrascuta/) or check out my projects on [GitHub](https://github.com/JestVA).
+
