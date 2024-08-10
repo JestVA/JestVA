@@ -1,12 +1,14 @@
-# Dorin Dumitrascuta
+# Dorin (devfrend) Dumitrascuta
 
-## Lead Senior Frontend Engineer | Data Visualization Enthusiast | AI and Algorithm Innovator
+![restrain](https://github.com/user-attachments/assets/251c0539-9419-4149-bcca-3873adce76f1)
 
-Hello there! I'm Dorin, a driven frontend engineer with a deep passion for creating engaging, data-driven user experiences. My journey in tech has spanned various roles, from engineering to digital project management, always with a focus on pushing the envelope in frontend development and data visualization.
+## Lead Software Engineer - Frontend
+
+Hello there! I'm Dorin, a driven frontend engineer with a deep passion for creating engaging, data-driven user experiences. My journey in tech has spanned various roles and I had the opportunity to work on exciting challenges, always with a focus on pushing the envelope in frontend development and data visualization.
 
 ### What I Do
 
-I specialize in crafting visually stunning interfaces and complex frontend architectures using modern technologies like React.js, TypeScript, and Next.js. I thrive on turning complex data into compelling visual stories that drive user engagement and decision-making.
+I specialize in crafting high performing web applications, visually stunning interfaces and complex frontend architectures using modern technologies like React.js, TypeScript, and Next.js. I thrive on turning complex data into compelling visual stories that drive user engagement and decision-making.
 
 ### Projects and Contributions
 
