@@ -1,7 +1,5 @@
 # Dorin Dumitrascuta
 
-![restrain](https://github.com/user-attachments/assets/251c0539-9419-4149-bcca-3873adce76f1)
-
 ## Senior UI Software Engineer (Tech Lead) @devfrend
 
 I design and build high-performance, data-intensive user interfaces for complex domains (markets, analytics, tooling). My focus is frontend architecture, interaction clarity, and translating noisy data into decision-grade visuals.
