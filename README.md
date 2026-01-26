@@ -1,21 +1,10 @@
-# Dorin Dumitrascuta
+# Dorin Dumitrascuta @devfrend
 
-## Senior UI Software Engineer (Tech Lead) @devfrend
-
-I design and build high-performance, data-intensive user interfaces for complex domains (markets, analytics, tooling). My focus is frontend architecture, interaction clarity, and translating noisy data into decision-grade visuals.
-
-### Core stack
-	•	React, TypeScript, Vite
-	•	Frontend architecture, state orchestration, performance
-	•	Data visualization for trading and analytics systems
-
-### Work highlights
-	•	Led large-scale frontend migrations and architectural refactors.
-	•	Built production UIs for market data, workflows, and multi-step systems.
-	•	Shipped internal and external tools where latency, accuracy, and clarity matter.
+I design and build high-performance, data-intensive user interfaces for complex domains (markets, analytics, tooling). My focus is frontend architecture, human machine-interface interaction UX, and translating noisy data into decision-grade visuals. Always seeking edge, always seeking alpha.
 
 ### Side work
 	•	Personal site: https://dumitrascuta.com — essays and technical notes.
 	•	semn.ai: https://semn.ai — experimental market analytics tooling.
-
-I value restraint, correctness, and durability over novelty.
+	•	Implied Volatility (IV) surface modelling quantitative missprincing screener for equity options (semn.ai repo [private])
+	•	Implied Probability shocks in pre-race liquidity wave displacements in the Horse Racing markets (semn.ai repo [private])
+	• 	Quantitative Trading Model for crypto with RAG AI and ML pipeline for prediction (Galois.AI repo [private])
