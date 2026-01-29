@@ -15,8 +15,8 @@ I design and build high-performance, data-intensive user interfaces for complex 
     width="180"
     alt="gif"
   />
-	  <img
-    src="./Jan-29-2026%2014-06-45.gif"
+  <img
+    src="./Jan-29-2026%2015-06-45.giff"
     width="180"
     alt="gif"
   />
