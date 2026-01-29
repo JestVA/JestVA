@@ -11,7 +11,7 @@ I design and build high-performance, data-intensive user interfaces for complex 
 
 <p align="center">
   <img
-    src="https://media.giphy.com/media/iyJYQzLNdSrESj53nH/giphy.gif"
+    src="./Jan-29-2026%2014-55-32.gif"
     width="180"
     alt="gif"
   />
