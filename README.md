@@ -9,4 +9,10 @@ I design and build high-performance, data-intensive user interfaces for complex 
 	•	Implied Probability shocks in pre-race liquidity wave displacements in the Horse Racing markets (semn.ai repo [private])
 	• 	Quantitative Trading Model for crypto with RAG AI and ML pipeline for prediction (Galois.AI repo [private])
 
-<iframe src="https://giphy.com/embed/iyJYQzLNdSrESj53nH" width="480" height="370" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/iyJYQzLNdSrESj53nH">via GIPHY</a></p>
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/iyJYQzLNdSrESj53nH/giphy.gif"
+    width="180"
+    alt="gif"
+  />
+</p>
