@@ -10,6 +10,6 @@ I design and build high-performance, data-intensive user interfaces for complex 
 	• 	Quantitative Trading Model for crypto with RAG AI and ML pipeline for prediction (Galois.AI repo [private])
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qALTtmMCx3MHizcbXZ/giphy.gif" width="180" />
+  <img src="[https://media.giphy.com/media/qALTtmMCx3MHizcbXZ/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzUzajcwMm9zcXlkaHlpcTMzZjR3cXBqbWtxNjlxYzVzN3I0cnV0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W0pzIgVWst1nLcWhFB/giphy.gif)" width="180" />
 
 </p>
