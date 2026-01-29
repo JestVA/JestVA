@@ -2,12 +2,7 @@
 
 I design and build high-performance, data-intensive user interfaces for complex domains (markets, analytics, tooling). My focus is frontend architecture, human machine-interface interaction UX, and translating noisy data into decision-grade visuals. Always seeking edge, always seeking alpha.
 
-### Side work
-	•	Personal site: https://dumitrascuta.com — essays and technical notes.
-	•	semn.ai: https://semn.ai — experimental market analytics tooling.
-	•	Implied Volatility (IV) surface modelling quantitative missprincing screener for equity options (semn.ai repo [private])
-	•	Implied Probability shocks in pre-race liquidity wave displacements in the Horse Racing markets (semn.ai repo [private])
-	• 	Quantitative Trading Model for crypto with RAG AI and ML pipeline for prediction (Galois.AI repo [private])
+Side by side you can see how I use WebGL to render a dataset of 100k and then 1M points which refresh every 100ms. 
 
 <p align="center">
   <img
@@ -21,3 +16,12 @@ I design and build high-performance, data-intensive user interfaces for complex 
     alt="gif"
   />
 </p>
+
+### Side work
+	•	Personal site: https://dumitrascuta.com — essays and technical notes.
+	•	semn.ai: https://semn.ai — experimental market analytics tooling.
+	•	Implied Volatility (IV) surface modelling quantitative missprincing screener for equity options (semn.ai repo [private])
+	•	Implied Probability shocks in pre-race liquidity wave displacements in the Horse Racing markets (semn.ai repo [private])
+	• 	Quantitative Trading Model for crypto with RAG AI and ML pipeline for prediction (Galois.AI repo [private])
+
+
