@@ -19,7 +19,9 @@ Side by side you can see how I use WebGL to render a dataset of 100k and then 1M
 
 This was the only reliable way to render 1M points with >= ~80fps and 100k points with stable 120fps.
 My experiment started first with canvas (couldn't scale to 1M without terrible lag), canvas in worker service (offload the main UI thread), decent but still laggy.
-WebGl achieved smooth rendering for a high frequency and noise dataset (Math.random(), 100ms).
+WebGL achieved smooth rendering for a high frequency and noisy dataset (Math.random(), 100ms).
+
+I think about UI more than just a surface, but in terms of first principles. Every abstraction and primitive needs to earn its space. Right tool for the right frame! 
 
 ### Side work
 	•	Personal site: https://dumitrascuta.com — essays and technical notes.
