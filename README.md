@@ -8,3 +8,10 @@ I design and build high-performance, data-intensive user interfaces for complex 
 	•	Implied Volatility (IV) surface modelling quantitative missprincing screener for equity options (semn.ai repo [private])
 	•	Implied Probability shocks in pre-race liquidity wave displacements in the Horse Racing markets (semn.ai repo [private])
 	• 	Quantitative Trading Model for crypto with RAG AI and ML pipeline for prediction (Galois.AI repo [private])
+
+<p align="center">
+  <img src="https://media.giphy.com/media/RJNNe3YE7pPvykKquZ/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/qALTtmMCx3MHizcbXZ/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/W0pzIgVWst1nLcWhFB/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/qALTtmMCx3MHizcbXZ/giphy.gif" width="180" />
+</p>
