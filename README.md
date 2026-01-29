@@ -23,13 +23,11 @@ WebGL achieved smooth rendering for a high frequency and noisy dataset (Math.ran
 
 I think about UI more than just a surface, but in terms of first principles. Every abstraction and primitive needs to earn its space. Right tool for the right frame! 
 
-🔈 Did you ever wonder how bitcoin sounds? Here I audiosynthetize every byte of data streamed from a HFT crypto feed
-The sound of HFT (a regular Thursday afternoon, streaming crypto data.)
-[Play audio](./thursday_afternoon.m4a)
+🔈 Did you ever wonder <a href="https://soundcloud.com/dorin-dumitrascuta/thursday_afternoon?si=035f365f2b074c90ba01d0e2637155e9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank" rel="noopener noreferrer">
+  how a financial market sounds</a>? I sampled a 1-min BTC candle streamed byte by byte on a regular Thursday afternoon.
 
-<audio controls>
-  <source src="./thursday_afternoon.m4a" type="audio/mpeg">
-</audio>
+
+
 
 ### Side work
 	•	Personal site: https://dumitrascuta.com — essays and technical notes.
