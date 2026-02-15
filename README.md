@@ -1,4 +1,4 @@
-# Dorin Dumitrascuta @devfrend
+# Dorin Dumitrascuta
 
 I design and build high-performance, data-intensive user interfaces for complex domains (markets, analytics, tooling). My focus is frontend architecture, human machine-interface interaction UX, and translating noisy data into decision-grade visuals. Always seeking edge, always seeking alpha.
 
