@@ -29,7 +29,7 @@ I think about UI more than just a surface, but in terms of first principles. Eve
 ### Projects
 •	[Personal site](https://dumitrascuta.com) — essays and technical notes.
 
-•	[AgentCafe](https://agentcafe-production.up.railway.app/) - a virtual collaborative space + MCP server for AI coding agents
+•	[AgentCafe](https://agentcafe-production.up.railway.app/) — a virtual collaborative space + MCP server for AI coding agents
 
 •	[semn.ai](https://semn.ai) — experimental market analytics tooling for Bitcoin.
 
