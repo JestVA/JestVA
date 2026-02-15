@@ -28,11 +28,12 @@ I think about UI more than just a surface, but in terms of first principles. Eve
 
 
 
-### Side work
-	•	Personal site: https://dumitrascuta.com — essays and technical notes.
-	•	semn.ai: https://semn.ai — experimental market analytics tooling.
+### Projects
+	•	[Personal site](https://dumitrascuta.com) — essays and technical notes.
+	•	[AgentCafe](https://agentcafe-production.up.railway.app/) - a virtual collaborative space + MCP server for AI coding agents
+	•	[semn.ai](https://semn.ai) — experimental market analytics tooling for Bitcoin.
 	•	Implied Volatility (IV) surface modelling quantitative missprincing screener for equity options (semn.ai repo [private])
 	•	Implied Probability shocks in pre-race liquidity wave displacements in the Horse Racing markets (semn.ai repo [private])
 	• 	Quantitative Trading Model for crypto with RAG AI and ML pipeline for prediction (Galois.AI repo [private])
-
+	
 
