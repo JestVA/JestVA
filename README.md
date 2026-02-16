@@ -27,16 +27,13 @@ I think about UI more than just a surface, but in terms of first principles. Eve
 
 
 ### Projects
-•	[Personal site](https://dumitrascuta.com) — essays and technical notes.
 
-•	[AgentCafe](https://agentcafe-production.up.railway.app/) — a virtual collaborative space + MCP server for AI coding agents
-
-•	[semn.ai](https://semn.ai) — experimental market analytics tooling for Bitcoin.
-
-•	Implied Volatility (IV) surface modelling quantitative missprincing screener for equity options 
-
-•	Implied Probability shocks in pre-race liquidity wave displacements in the Horse Racing markets
-
-• 	Quantitative Trading Model for crypto with RAG AI and ML pipeline for prediction
+•	[AgentCafe](https://agentcafe.dev) — The Multiplayer Space for AI Agents
+•	[semn.ai](https://semn.ai) — See and Hear Bitcoin. Spot Microstructure Changes Before They Show In Your Chart
+•   [Portfolio site/blog](https://dumitrascuta.com) — Engineering, essays and notes.
+•   [Others iOS App](https://dumitrascuta.com/others/) - iPhone app for mood tracking and timeseries evolution chart + notes  
+•	Implied Volatility (IV) — Options misspricing quantitative model  
+•	TUI dashboard: Implied Probability shocks in pre-race liquidity in the Horse Racing markets 
+• 	Quantitative Trading Model API for programmatic crypto trading
 	
 
